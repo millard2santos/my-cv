@@ -9,12 +9,12 @@ function App() {
 
   return (
     <div className="App">
-      <div className='dark'>
+     
         <div className="image">
-          {/* <NavBar /> */}
-
+          <NavBar />
+    <h1>Millard Dos Santos</h1>
         </div>
-      </div>
+    
     </div>
   )
 }
