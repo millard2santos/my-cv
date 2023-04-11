@@ -1,0 +1,11 @@
+.image {
+    background-image: url('./assets/Foto-de-portada.jpeg');
+    min-height: 100vh;
+    z-index: 1;
+    filter: brightness(50%);
+}
+
+.dark{
+    background-color: black;
+    z-index: 2;
+}
